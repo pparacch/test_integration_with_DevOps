@@ -1,3 +1,4 @@
+# adding some comments to the file
 # Byte-compiled / optimized / DLL files
 # Byte-compiled / optimized / DLL files
 # Byte-compiled / optimized / DLL files
@@ -37,6 +38,7 @@ wheels/
 *.egg
 MANIFEST
 
+# adding some comments to the file
 # PyInstaller
 #  Usually these files are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
@@ -75,6 +77,7 @@ instance/
 # Scrapy stuff:
 .scrapy
 
+# adding some comments to the file
 # Sphinx documentation
 docs/_build/
 
